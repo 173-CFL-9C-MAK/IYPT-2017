@@ -10,8 +10,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  THICK LENS
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+''Bir sıvı dolu bir şişe bir lens olarak kullanılabilir. Muhtemelen böyle bir şişe, güneşli bir günde masanın üzerinde bırakılırsa tehlikelidir. Böyle bir 'lens' kullanarak bir yüzeyi kavurabilir mi?'' işte. Bu bizim sorumuz. Bu soruda anlatılmak ve araştırılmak istenen şişeyi lens olarak kullanıp kağıdı veya masayı yakabilir veya kavurabilir miyiz? Şişeyi lens olarak kullandığımızda ışığı bir noktaya toplayabiliriz. Bunun sonucunda güneş ışınları tek noktada toplandığı için birleşen ışınların oluşturduğu ısı bir kağıdı kolayca yakabilir. Ayrıca bu tür ısılarla tutuşması daha zor olan masa gibi materyalleri kavurabilir ama bu ısının enerjisine bağlıdır.     
 ## Kaynakçalar  
 S. Bednarek and J. Krysiak. The use of cylindrical lenses in easy experiments for physics
 education and the magic arts. Phys. Educ. 46, 5, 591 (2011)
