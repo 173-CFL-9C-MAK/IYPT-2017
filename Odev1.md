@@ -8,7 +8,7 @@ Sınıf | Öğrenci İsmi  | Numara
 9-C   | Ali Ata | 560
 9-C   | Melih Kalaycı|544
 
-#  KIVILCIMLAR
+#  SPARKS
 ## Özet
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
