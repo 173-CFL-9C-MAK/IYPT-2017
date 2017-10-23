@@ -42,5 +42,5 @@ http://www.drdrbill.com/downloads/optics/geometric-optics/Thick_Lenses.pdf
 http://scienceworld.wolfram.com/physics/ThickLensFormula.html
 
  Thick lenses and ABCD formalism (sisu.edu),
-http://www.sjsu.edu/faculty/beyersdorf/Archive/Phys158F06/10-12%20Thick%20Lenses%20and
+http://www.sjsu.edu/faculty/beyersdorf/Archive/Phys158F06/10-12%20Thick%20Lenses%20and%20the%20ABCD%20formalism.pdf
 
