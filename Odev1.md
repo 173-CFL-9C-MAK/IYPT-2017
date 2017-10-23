@@ -13,10 +13,24 @@ Sınıf | Öğrenci İsmi  | Numara
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+S. Bednarek and J. Krysiak. The use of cylindrical lenses in easy experiments for physics
+education and the magic arts. Phys. Educ. 46, 5, 591 (2011)
+ Start a Fire With a Water Bottle (youtube.com, from Grant Thompson, 18.12.2012),
+http://youtu.be/QwQJ-3pZfwc
+ 5 Ways to Start a Fire, Using Water (youtube.com, from Grant Thompson - "The king of
+Random", 27.09.2013), http://youtu.be/HCyHC7lnMyQ
+ Jim Blackburn. Water Filled Jugs Can Cause Fires (DAC, 2010),
+http://www.azfcf.org/docs/DAC/Water-Filled-Jugs.Blackburn.pdf
+ Wikipedia: Lens, http://en.wikipedia.org/wiki/Lens_(optics)
+ Wikipedia: Cylindrical lens, https://en.wikipedia.org/wiki/Cylindrical_lens
+ Optics Tutorial - 8 - Cardinal Points (youtube.com, from opticsrealm, 06.12.2012),
+http://youtu.be/Hm3ZWI6I6pI
+ A. Latham Baker. Thick-lens optics: An elementary treatise for the student and the amateur
+( D. van Nostrand, 1912), https://archive.org/details/thicklensopticse00bakerich
+ W. F. Long. Thick lenses and lens systems (drdrbill.com, 2007),
+http://www.drdrbill.com/downloads/optics/geometric-optics/Thick_Lenses.pdf
+ Thick lens formula (scienceworld.wolfram.com),
+http://scienceworld.wolfram.com/physics/ThickLensFormula.html
+ Thick lenses and ABCD formalism (sisu.edu),
+http://www.sjsu.edu/faculty/beyersdorf/Archive/Phys158F06/10-12%20Thick%20Lenses%20and
 
